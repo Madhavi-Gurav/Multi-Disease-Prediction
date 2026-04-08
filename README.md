@@ -58,3 +58,5 @@ unified_app/
     ├── heart_disease_model.pkl  # Trained Python model for heart disease
     └── mean_std_values.pkl  # Scaling metrics for heart vitals
 ```
+<img width="1902" height="898" alt="HeartDisease2" src="https://github.com/user-attachments/assets/193fcee9-3fe8-4806-a08c-72458ad96732" />
+
