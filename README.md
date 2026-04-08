@@ -1,4 +1,4 @@
-<img width="1903" height="812" alt="Diabetes" src="https://github.com/user-attachments/assets/d600470c-6897-4ed6-9927-db86b069c423" />
+
 ## 🌟 About The Project
 
 Welcome to the **Predictive Health Hub**! This application combines multiple machine learning disease prediction models into a single, seamless, and beautifully designed clinical interface. 
@@ -58,5 +58,8 @@ unified_app/
     ├── heart_disease_model.pkl  # Trained Python model for heart disease
     └── mean_std_values.pkl  # Scaling metrics for heart vitals
 ```
-<img width="1902" height="898" alt="HeartDisease2" src="https://github.com/user-attachments/assets/193fcee9-3fe8-4806-a08c-72458ad96732" />
+<img width="800" height="700" alt="Diabetes" src="https://github.com/user-attachments/assets/d600470c-6897-4ed6-9927-db86b069c423" />
+<img width="800" height="700" alt="HeartDisease2" src="https://github.com/user-attachments/assets/193fcee9-3fe8-4806-a08c-72458ad96732" />
+<img width="800" height="700" alt="humanEYE" src="https://github.com/user-attachments/assets/45bc3675-527a-4e97-bb19-3d7d65e1ac3f" />
+
 
